@@ -2,7 +2,7 @@
 
 ### 👤 About Me
 
-- 🔭 Currently working on: **[MG Games](https://discord.gg/mggames)**
+- 🔭 Currently working on: **[MG Games](https://discord.gg/mggames) and [MasterBullet](https://t.me/masterbullett)**
 - 🌍 Location: **Porto** 🇵🇹
 - 🔥 Age: 18 y
 
