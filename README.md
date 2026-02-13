@@ -32,6 +32,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="48" height="48" alt="Lua" /><br /><strong>Lua</strong>
     </td>
     <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br /><strong>Java</strong>
+    </td>
+    <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br /><strong>Python</strong>
     </td>
   </tr>
