@@ -2,7 +2,7 @@
 
 ### 👤 About Me
 
-- 🔭 Currently working on: **[anti-scam](anti-scam.cc)**
+- 🔭 Currently working on: **[anti-scam](https://anti-scam.cc/)**
 - 🌍 Location: **Porto** 🇵🇹
 - 🔥 Age: 18 y
 
