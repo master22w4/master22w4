@@ -2,7 +2,7 @@
 
 ### 👤 About Me
 
-- 🔭 Currently working on: **[MG Games](https://discord.gg/mggames) and [MasterBullet](https://t.me/masterbullett)**
+- 🔭 Currently working on: **[anti-scam](anti-scam.cc)**
 - 🌍 Location: **Porto** 🇵🇹
 - 🔥 Age: 18 y
 
@@ -62,8 +62,6 @@
 ---
 
 ### 📫 How to Reach Me
-
-- Discord: **[MG Games Server](https://discord.gg/mggames)**
 - GitHub: [@master22w4](https://github.com/master22w4)
 
 *"Programming is the art of turning coffee into code."* ☕
