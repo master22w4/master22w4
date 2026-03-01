@@ -63,5 +63,6 @@
 
 ### 📫 How to Reach Me
 - GitHub: [@master22w4](https://github.com/master22w4)
+- Discord: [antiscam.cc](https://discord.gg/antiscamcc)
 
 *"Programming is the art of turning coffee into code."* ☕
